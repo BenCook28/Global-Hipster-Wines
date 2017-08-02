@@ -1,0 +1,26 @@
+	height: 100%;
+	position: relative;
+	width: 100%;
+	background: url("img/Chilean Background.jpg") repeat center bottom;
+	-webkit-background-size: cover;
+	
+		this.inCommon = function(person2){
+		// same.push(this.favoriteShows);
+		for (var i = 0; i < this.favoriteShows - this.favoriteShows.length ; i++){
+			for (var j = 0; j < same[i]; j++){
+				if (this.favoriteShows[i] == same[j]){
+					console.log("I have " + this.favoriteShows[i] + " in common with someone.")
+				} else {
+					console.log("No shows in common");
+				}
+			}
+		}
+
+panel height: /*height: 320.27;*/
+panel image height 165.41;
+
+		<img src="img/tuscany-grape-field-nature-51947.jpeg" style="width: 100%; height: 50%;"  id="image">
+				<div class="cover-content">
+					<h1>Global Hipster Wines</h1>
+				<h2>Original Gifts and Treats</h2>
+	</div>
